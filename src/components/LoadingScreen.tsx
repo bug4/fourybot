@@ -17,7 +17,7 @@ const LoadingScreen: React.FC<LoadingScreenProps> = ({ isLoading }) => {
             Foury
           </h1>
           <p className="text-xl text-yellow-100 font-medium">
-            Your Four.meme Network Guide
+            Your Four.meme Guide
           </p>
         </div>
         

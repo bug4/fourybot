@@ -6,7 +6,7 @@ const NavigationButtons: React.FC = () => {
     <>
       {/* X Community Button - Top Left */}
       <a 
-        href="https://x.com/fouryai" 
+        href="https://x.com/fourybsc" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed top-6 left-6 z-20 bg-green-500 hover:bg-green-400 text-white font-semibold px-4 py-2 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 flex items-center space-x-2 group border-2 border-green-400 hover:border-green-300"
