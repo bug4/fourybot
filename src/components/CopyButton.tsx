@@ -6,7 +6,7 @@ interface CopyButtonProps {
 }
 
 const CopyButton: React.FC<CopyButtonProps> = ({ 
-  contractAddress = "...." 
+  contractAddress = "0x120d3af68b32276ed8f4d4d5f82fd2a5a0d74444" 
 }) => {
   const [copied, setCopied] = useState(false);
 
